@@ -18,6 +18,12 @@ fork it. improve it. make it yours. PRs are welcome!
 npm i -D radstack
 ```
 
+for opencode, run the installer; it links the skills and agents into `~/.config/opencode`:
+
+```bash
+./scripts/install-opencode.sh
+```
+
 or clone it next to your agent config:
 
 ```bash
