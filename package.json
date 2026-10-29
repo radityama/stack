@@ -1,0 +1,36 @@
+{
+  "name": "radstack",
+  "version": "0.1.0",
+  "description": "rigorous agent skills you can parallelize with confidence. write less, higher quality code.",
+  "license": "MIT",
+  "author": "Raditya Pratama",
+  "homepage": "https://github.com/radityama/stack",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radityama/stack.git"
+  },
+  "keywords": [
+    "radstack",
+    "agent-skills",
+    "workflow",
+    "principles",
+    "subagents",
+    "unslop",
+    "claude-code",
+    "cursor"
+  ],
+  "files": [
+    ".cursor-plugin",
+    "agents",
+    "assets",
+    "automations",
+    "docs",
+    "skills",
+    "LICENSE",
+    "plugin.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}

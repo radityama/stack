@@ -1,0 +1,31 @@
+{
+	"name": "radstack",
+	"displayName": "radstack",
+	"version": "0.1.0",
+	"description": "if you want to go fast, go deep first. radstack helps you write less, but higher quality code. rigorous agent workflows you can parallelize with confidence.",
+	"author": {
+		"name": "Raditya Pratama"
+	},
+	"homepage": "https://github.com/radityama/stack",
+	"repository": "https://github.com/radityama/stack",
+	"license": "MIT",
+	"logo": "assets/logo.png",
+	"keywords": [
+		"radstack",
+		"radstack-mode",
+		"workflow",
+		"principles",
+		"agent-style",
+		"subagents",
+		"unslop"
+	],
+	"category": "developer-tools",
+	"tags": [
+		"workflow",
+		"principles",
+		"review",
+		"planning"
+	],
+	"skills": "./skills/",
+	"agents": "./agents/"
+}
